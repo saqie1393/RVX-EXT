@@ -1,4 +1,4 @@
-name: Build RV-X
+name: Build RVX
 on:
   workflow_call:
     inputs:
