@@ -1,14 +1,10 @@
-GooglePhotos (arm64-v8a): 7.13.0.716414472  
-GooglePhotos (arm-v7a): 7.13.0.716414472  
-Music (arm64-v8a): 7.29.52  
-Music (arm-v7a): 7.29.52  
-YouTube: 19.47.53  
+YouTube: 19.44.39  
+- To use RVX without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest).  
+- To detach RVX from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module.  
 
-Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+Changelog:  
+CLI: inotia00/revanced-cli-5.0.1-all.jar  
+Patches: anddea/patches-3.3.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.3.0)  
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.9.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.9.0)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
