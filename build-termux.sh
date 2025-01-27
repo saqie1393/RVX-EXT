@@ -31,7 +31,7 @@ if [ ! -f ~/.rvmm_"$(date '+%Y%m')" ]; then
 fi
 mkdir -p /sdcard/Download/RVX/
 
-if [ -d revanced-magisk-module ] || [ -f config.toml ]; then
+if [ -d RVX ] || [ -f config.toml ]; then
      if [ -d RVX ]; then cd RVX; fi
      pr "Checking for RVX updates"
      git fetch

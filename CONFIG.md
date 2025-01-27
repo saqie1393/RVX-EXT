@@ -1,6 +1,6 @@
 # Config
 
-Adding another RV-X app is as easy as this:
+Adding another RVX app is as easy as this:
 ```toml
 [App Name]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inc/app"
@@ -22,8 +22,8 @@ integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 # Where to fetch cli from ― default: "inotia00/revanced-cli"
 # Options like `patches-source`, `integrations-source`, and `cli-source` can also set per app
-rv-brand = "RV-X"
-# Rebrand from 'RV-X' to something different ― default: "RV-X"
+rv-brand = "RVX"
+# Rebrand from 'RVX' to something different ― default: "RVX"
 
 patches-version = "v2.111.4"
 # Use specific patches version ― default: latest release
